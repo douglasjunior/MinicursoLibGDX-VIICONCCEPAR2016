@@ -272,7 +272,7 @@ public class TelaJogo extends TelaBase {
         atualizarPontuacao();
 
         // atualiza o próximo quadro (frame) do mundo
-        mundo.step(delta, 6, 2);
+        mundo.step(1f / 60f, 6, 2);
 
         destruirObjetosMortos();
     }

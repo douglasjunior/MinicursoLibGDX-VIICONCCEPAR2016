@@ -233,7 +233,7 @@ public class Personagem {
             Array<Texture> texturas = recursos.txPersonagemMorto;
             if (estagio < texturas.size) {
                 textura = texturas.get((int) estagio);
-                estagio++;
+                estagio = Util.calcularEstagio(delta, estagio, 7, 99);
             } else {
                 textura = texturas.peek();
             }
