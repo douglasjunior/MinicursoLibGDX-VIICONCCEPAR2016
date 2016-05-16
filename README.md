@@ -1,4 +1,4 @@
-# MinicursoLibGDX-VIICONCCEPAR
+# Introdução ao desenvolvimento de jogos multiplataforma com [LibGDX](http://libgdx.badlogicgames.com/)
 
 Projetos utilizados durante o Minicurso sobre LibGDX do VII CONCCEPAR da Faculdade Integrado de Campo Mourão - PR http://conccepar.grupointegrado.br/
 
