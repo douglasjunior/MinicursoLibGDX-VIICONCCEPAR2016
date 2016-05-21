@@ -288,6 +288,8 @@ public class Personagem {
      * Aplica um impulso no personagem no sentido Y
      */
     public void pular() {
+        tempoAtirando = 0;
+        situacao = PULANDO;
         corpo.applyLinearImpulse(new Vector2(0, 7), corpo.getWorldCenter(), false);
     }
 
