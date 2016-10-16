@@ -13,11 +13,11 @@ Projetos utilizados durante o Minicurso sobre LibGDX do VII CONCCEPAR da Faculda
 
 Local: Faculdade Integrado - Unidade Centro - Lab. I / Av. Irmãos Pereira, 670 - Centro <br>
 Data:  19/05/2016 / 19h30 - 23h00 <br>
-[Download dos slides.](https://github.com/douglasjunior/MinicursoLibGDX-VIICONCCEPAR/raw/master/Minicurso%20LibGDX.pdf)
+[Download dos slides.](/Minicurso%20LibGDX.pdf)
 
 ## Demonstração
 
-![demonstração](https://raw.githubusercontent.com/douglasjunior/MinicursoLibGDX-VIICONCCEPAR/master/demo.gif)
+![demonstração](/demo.gif)
 
 
 
